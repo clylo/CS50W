@@ -1,0 +1,40 @@
+
+#gradient {
+    background-image:
+      linear-gradient(
+        to right, 
+        blue, #f06d06
+      );
+  }
+
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 4em;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: medium;
+    font-size: 2em;
+}
+
+table{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: medium;
+    font-size: 1em;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+h3 {
+    font-style: italic;
+}
